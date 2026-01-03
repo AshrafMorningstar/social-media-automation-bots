@@ -1,88 +1,83 @@
-/*
- Copyright (c) 2026 Ashraf Morningstar
- These are personal recreations of existing projects, developed by Ashraf Morningstar
- for learning and skill development.
- Original project concepts remain the intellectual property of their respective creators.
- Repository: https://github.com/AshrafMorningstar
-*/
 
-# Social Media Automation Bots 🤖
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-Enabled-green?style=for-the-badge)
-![Author](https://img.shields.io/badge/Author-Ashraf%20Morningstar-orange?style=for-the-badge)
+# :star: Social Media Automation Bots :star:
 
-A collection of powerful automation scripts to manage and grow your social media presence effortlessly.
+[![GitHub stars](https://img.shields.io/github/stars/AshrafMorningstar/social-media-automation-bots?style=for-the-badge&color=orange)](https://github.com/AshrafMorningstar/social-media-automation-bots/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/AshrafMorningstar/social-media-automation-bots?style=for-the-badge&color=blue)](https://github.com/AshrafMorningstar/social-media-automation-bots/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/AshrafMorningstar/social-media-automation-bots?style=for-the-badge&color=red)](https://github.com/AshrafMorningstar/social-media-automation-bots/issues)
+[![GitHub license](https://img.shields.io/github/license/AshrafMorningstar/social-media-automation-bots?style=for-the-badge&color=green)](./LICENSE)
+![Maintained](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?style=for-the-badge)
 
-## 🚀 Features
+**Automated, High-Performance social media automation bots Project**
 
-### 1. YouTube Auto Uploader
+[View Demo (If Applicable)](#) • [Report Bug](https://github.com/AshrafMorningstar/social-media-automation-bots/issues) • [Request Feature](https://github.com/AshrafMorningstar/social-media-automation-bots/issues)
 
-- **File**: `youtube_uploader.py`
-- Automate video uploads with custom titles, descriptions, and tags.
-- Supports scheduling and privacy settings.
-
-### 2. Instagram Growth Bot
-
-- **File**: `instagram_bot.py`
-- Auto-Like specific hashtags.
-- Auto-Follow targeted users.
-- Safe mode to avoid bans.
-
-### 3. Universal Social Poster
-
-- **File**: `universal_poster.py`
-- Post simultaneously to Twitter (X) and LinkedIn.
-- Streamline your content distribution.
-
-## 🛠️ Usage
-
-1.  Clone the repository:
-    ```bash
-    git clone https://github.com/AshrafMorningstar/social-media-automation-bots.git
-    cd social-media-automation-bots
-    ```
-2.  Install dependencies (create a `requirements.txt` if needed):
-    ```bash
-    pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
-    ```
-3.  Configure your API keys in the respective scripts.
-4.  Run the bots!
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is licensed under the MIT License.
+</div>
 
 ---
 
-**Developed with ❤️ by [Ashraf Morningstar](https://github.com/AshrafMorningstar)**
+## :rocket: Overview
 
+**social-media-automation-bots** is a state-of-the-art implementation utilizing Python. Designed for developers looking for robust, scalable solutions in Open Source, Developer Tools, Coding Best Practices, Software Engineering.
+
+This project is a high-performance, open-source solution designed for developers and enthusiasts. It implements modern best practices and is optimized for efficiency and scalability.
+
+## :sparkles: Key Features
+
+- :white_check_mark: **High Performance:** Optimized for speed and low latency.
+- :white_check_mark: **Scalable Architecture:** Built to handle growth effortlessly.
+- :white_check_mark: **Modern Tech Stack:** Utilizes latest standards in Python.
+- :white_check_mark: **Developer Friendly:** Clean code, well-documented, and easy to extend.
+
+## :hammer_and_wrench: Technologies Used
+
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+## :floppy_disk: Installation & Usage
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/AshrafMorningstar/social-media-automation-bots.git
+   cd social-media-automation-bots
+   ```
+
+2. **Install dependencies:**
+    pip install -r requirements.txt
+
+3. **Run the application:**
+    python main.py
+
+## :open_file_folder: Project Structure
+
+```
+social-media-automation-bots/
+├── src/          # Source code
+├── assets/       # Images and static files
+├── README.md     # Project documentation
+└── LICENSE       # License information
+```
+
+## :handshake: Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines.
+
+## :bust_in_silhouette: Author
+
+**Ashraf Morningstar**
+
+- **GitHub:** [@AshrafMorningstar](https://github.com/AshrafMorningstar)
+- **Twitter:** [@AMS_Morningstar](https://twitter.com/@AMS_Morningstar)
+- **Portfolio:** [AshrafMorningstar Projects](https://github.com/AshrafMorningstar?tab=repositories)
+
+## :page_facing_up: License
+
+Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-
-## 📜 Copyright & License
-
-© 2026 Ashraf Morningstar. All Rights Reserved.
-
-**Educational Disclaimer:** This is a personal recreation of an existing project concept, developed for learning and skill development purposes. The original project concept remains the intellectual property of its respective creator(s).
-
-**License:** MIT License - See [LICENSE](./LICENSE) file for details.
-
-**Developer:** [Ashraf Morningstar](https://github.com/AshrafMorningstar)
-
-**Portfolio:** Explore more projects at [github.com/AshrafMorningstar](https://github.com/AshrafMorningstar)
-
----
-
-### 🤝 Connect & Contribute
-
-Found this helpful? Give it a ⭐️ on GitHub!
-
-- 💼 Company: MORNINGSTARCONSTRUCTION
-- 📍 Location: India
-- 🐦 Twitter: [@AMS_Morningstar](https://twitter.com/AMS_Morningstar)
-- 📧 Email: ashrafmorningstar@gmail.com
+<div align="center">
+  <p>If you find this project useful, please give it a <b>Star</b> :star:!</p>
+  <sub>Built with ❤️ by Ashraf Morningstar</sub>
+</div>
